@@ -1,1 +1,1 @@
-# Geometric Pattern in Python Usint Turtle
+# Geometric Pattern in Python Using Turtle
